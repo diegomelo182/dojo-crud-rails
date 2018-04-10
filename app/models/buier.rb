@@ -1,0 +1,2 @@
+class Buier < ApplicationRecord
+end

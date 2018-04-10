@@ -1,0 +1,2 @@
+class CompactDisk < ApplicationRecord
+end
